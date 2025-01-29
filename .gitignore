@@ -1,0 +1,14 @@
+# Unity-generated files
+Library/
+Logs/
+Temp/
+Obj/
+Packages/
+ProjectSettings/EditorBuildSettings.asset
+
+# User-specific settings
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
